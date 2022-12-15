@@ -1,4 +1,5 @@
 ---
+typora-root-url:  ../
 title: "Tag"
 layout: tags
 permalink: /tags/
