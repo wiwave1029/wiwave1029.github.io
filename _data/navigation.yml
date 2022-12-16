@@ -21,7 +21,25 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Tag"
-    url: /tags/  
+    url: /tags/ 
+  - title: "Serach" 
+    url: /search/  
+
+docs:
+  - title: "대목차1"
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/
+
+  - title: "대목차2"
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/  
+
 
   #- title: "About me"
   #  url: /about/
