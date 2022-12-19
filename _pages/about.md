@@ -6,4 +6,11 @@ author_profile: false
 sidebar_main: true
 ---
 
-layout의 의미는 ????
+
+::: mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+:::
