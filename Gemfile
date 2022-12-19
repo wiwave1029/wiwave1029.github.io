@@ -10,3 +10,4 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 
   
 gem 'jekyll-archives' 
+#gem "jekyll-mermaid"  #github에서 지원안함
